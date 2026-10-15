@@ -54,13 +54,5 @@ Added language, notification sound, link preview, and floating panel rows to Set
 
 Left preference keys unchanged — existing installs keep their settings
 
-App identity
 
-Changed display name to Clipto too — tells it apart from the original in the launcher
-
-Changed applicationId to com.d0x360.cliptotoo — installs alongside the original ClipTo instead of updating it
-
-Added a distinct launcher icon (recolored) — easier to tell the two apps apart
-
-Added a shared debug keystore in the repo — debug builds from different machines can update each other
 
