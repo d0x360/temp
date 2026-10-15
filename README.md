@@ -54,5 +54,11 @@ Added language, notification sound, link preview, and floating panel rows to Set
 
 Left preference keys unchanged — existing installs keep their settings
 
+TESTING!
+All features and functions, except for sync between the Windows app and the Android app, do work. That will be addressed shortly.
+
+Compatibility tested on multiple Samsung Galaxy devices and various generations of Pixels.
+
+App speed is significantly faster. There are less UI errors. Every function works as good or better than before.
 
 
