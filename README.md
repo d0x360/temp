@@ -1,6 +1,6 @@
 # Clipto too
 
-An unofficial community revival of the original **ClipTo Pro** Android clipboard manager, kept running on modern Android.
+An official revival of the original **ClipTo Pro** Android clipboard manager, kept running on modern Android.
 
 Based on Clipto 7.3.8 by Alex Trashler of Ukraine. Current version: **0.1.0-beta** (0.x betas until 1.0).
 
@@ -76,10 +76,6 @@ New help pages were written from scratch, because the original clipto.pro help s
 
 ### Cleanup
 - Removed dead links: the bottom of Settings (rate, feedback, translate, report an issue, FAQ, share, community, changelog, terms, privacy), the Settings three-dot menu (FAQ, Report an issue) and "App guide" in the side menu. They pointed to the original developer's offline site and accounts.
-
-### App identity
-- The app is named **Clipto too** and has its own app ID (`com.d0x360.cliptotoo`), so it installs alongside the original instead of replacing it.
-- It has a distinct launcher icon, so the two are easy to tell apart.
 
 ### Android compatibility
 - Updated targetSdk from 30 to 35, so the app follows Android 15 rules.
